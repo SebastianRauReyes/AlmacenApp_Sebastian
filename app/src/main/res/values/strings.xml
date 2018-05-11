@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlmacenApp_Sebastian</string>
+    <string name="loginactivty_name">Login</string>
+    <string name="productsname">Products</string>
+    <string name="productregister">Register</string>
+    <string name="productdetail">Detail</string>
+</resources>
