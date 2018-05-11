@@ -47,8 +47,8 @@ public interface ApiService {
 
     @FormUrlEncoded
     @POST("/api/v1/login")
-    Call<Usuario> login(@Field("username") String nombre,
-                        @Field("password") String precio);
+    Call<Usuario> login(@Field("username") String username,
+                        @Field("password") String password);
 
 
 }
